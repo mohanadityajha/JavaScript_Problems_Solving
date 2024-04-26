@@ -9,7 +9,7 @@
 
 
 function myFunction(a, b) {
-    //var a = 5, b = 9;
+    
 
     a = a - b;
     b = a + b;
